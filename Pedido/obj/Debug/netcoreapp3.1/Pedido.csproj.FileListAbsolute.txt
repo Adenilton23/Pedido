@@ -1,0 +1,12 @@
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.csproj.CoreCompileInputs.cache
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfoInputs.cache
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfo.cs
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.exe
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.deps.json
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.runtimeconfig.json
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.runtimeconfig.dev.json
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.dll
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.pdb
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.dll
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.pdb
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.genruntimeconfig.cache
